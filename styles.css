@@ -16,14 +16,10 @@ body.signin-body {
 }
 
 .card.signin-card {
-    padding: 40px 0 20px;
+    padding: 0px 0 0px;
     background-color: #fff;
     box-shadow: 2px 2px 5px rgba(0,0,0,.5);
 }
-/* .card-body img {
-    width:100%;
-    height:300px;
-} */
 img.signin-img {
     padding:0 2rem 2rem;
     margin:auto;
@@ -33,4 +29,15 @@ img.signin-img {
 form.signin-form {
     max-width: 350px;
     margin: auto;
+}
+button.signin-btn {
+    color: #ffffff;
+    background-color: #d64829;
+    margin-bottom: 1.2rem;
+}
+a.new-acc {
+    font-size: 1.2rem;
+    text-align: center;
+    display:block;
+    margin-top: 15px;
 }

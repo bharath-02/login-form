@@ -20,17 +20,17 @@ body.signin-body {
     background-color: #fff;
     box-shadow: 2px 2px 5px rgba(0,0,0,.5);
 }
-.card-body img {
+/* .card-body img {
     width:100%;
     height:300px;
-}
-/* .img-header  */
+} */
 img.signin-img {
     padding:0 2rem 2rem;
     margin:auto;
     display:block;
+    width:70%;
 }
-.head {
-    text-align: center;
-    margin-top: 0;
+form.signin-form {
+    max-width: 350px;
+    margin: auto;
 }
